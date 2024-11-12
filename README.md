@@ -9,3 +9,4 @@ I intend to work solo on this project.
 Chandan Mohanta (chandan.mohanta@colorado.edu)
 
 # Project Schedule
+[Link](https://github.com/users/Buff-Chandan/projects/3/views/1)
